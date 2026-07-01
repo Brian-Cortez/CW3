@@ -1,4 +1,4 @@
-<form action="debug-form-handler.php" method="post">
+<form action="debugTest.php" method="post">
   <label>Your Name: <input name="visitor_name" type="text"></label>
   <label>Password: <input name="password" type="password"></label>
 
